@@ -144,17 +144,6 @@ Please ensure your code adheres to our coding standards and includes relevant te
 
 ---
 
-## 🌟 Code of Conduct
-
-We expect all participants to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the standards of behavior we expect from our community.
-
----
-
-## 🛡️ Security Policy
-
-To report security vulnerabilities, please contact us directly at **securityparadise@gmail.com**. Your report will be handled with the utmost confidentiality, and we will work to address issues promptly.
-
----
 
 ## 🛡️ License
 
